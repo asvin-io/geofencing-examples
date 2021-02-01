@@ -1,0 +1,26 @@
+{
+  "name": "geofencing",
+  "version": "1.0.0",
+  "description": "geofencing example",
+  "main": "geofence.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asvin-io/geofencing-examples.git"
+  },
+  "keywords": [
+    "geofencing"
+  ],
+  "author": "omkar",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/asvin-io/geofencing-examples/issues"
+  },
+  "homepage": "https://github.com/asvin-io/geofencing-examples#readme",
+  "dependencies": {
+    "postman-request": "^2.88.1-postman.28",
+    "yargs": "^16.2.0"
+  }
+}
